@@ -7,5 +7,6 @@ Clears history for any specified site when tab with any oage from this site is c
 Add sites like this (without http/https and www parts):
 
 example1.com
+
 example2.com
 
